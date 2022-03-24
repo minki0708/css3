@@ -1,0 +1,10 @@
+- html 시작 html5 또는 ! 를 누르고 enter키 입력
+- 한줄삭제 : ctrl + shift + k
+- 복사 : shift + alt
+- 이동 : alt + 위아래 방향키
+- 화면간 이동 : ctrl + pageup/down
+- 화면 닫기: ctrl + f4
+ctrl + shift + 방향키
+- 폴더창 열기/닫기 : ctrl + b
+- 브라우저 보기(확장팩 설치시) : alt + b
+- 주석 : ctrl + / 
